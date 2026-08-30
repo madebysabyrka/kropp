@@ -4,8 +4,9 @@
 @import 'base/utils.css';
 @import 'base/globals.css';
 
-@import 'components/header.css';
 @import 'components/button.css';
+@import 'components/input.css';
+@import 'components/header.css';
 
 @import 'sections/banner.css';
 @import 'sections/motivation.css';
