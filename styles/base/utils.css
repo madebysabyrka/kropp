@@ -71,3 +71,9 @@
   padding: 0 !important;
   margin: -1px !important;
 }
+
+@media (max-width: 767px) {
+  .section-description {
+    font-size: 16px;
+  }
+}
